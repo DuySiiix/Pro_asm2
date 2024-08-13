@@ -1,0 +1,57 @@
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.exe
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.dll
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM_2.FormLogin.resources
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM_2.Form2.resources
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM_2.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.dll
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\refint\ASM 2.dll
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ref\ASM 2.dll
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM_2.Form3.resources
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.exe
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.deps.json
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.runtimeconfig.json
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.dll
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.pdb
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM_2.FormLogin.resources
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM_2.Form2.resources
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM_2.Form3.resources
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM_2.Properties.Resources.resources
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.csproj.GenerateResource.cache
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.AssemblyInfoInputs.cache
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.AssemblyInfo.cs
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.csproj.CoreCompileInputs.cache
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.dll
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\refint\ASM 2.dll
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.pdb
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.genruntimeconfig.cache
+G:\Duy Hung\hoc hanh bla bla\ASM\ASM 2\ASM 2\obj\Debug\net8.0-windows\ref\ASM 2.dll
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.exe
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.dll
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\bin\Debug\net8.0-windows\ASM 2.pdb
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM_2.Form2.resources
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM_2.Form3.resources
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM_2.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.dll
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\refint\ASM 2.dll
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.pdb
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM 2.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ref\ASM 2.dll
+C:\Users\ADMIN\OneDrive\Desktop\ASM 2\ASM 2\ASM 2\obj\Debug\net8.0-windows\ASM_2.Form1.resources
