@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ASM 2\\ASM 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D0154FB-1BF1-4530-ACBC-FCA3CB897311}|ASM 2\\ASM 2.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\ASM 2\\ASM 2\\asm 2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1D0154FB-1BF1-4530-ACBC-FCA3CB897311}|ASM 2\\ASM 2.csproj|c:\\users\\admin\\onedrive\\desktop\\asm 2\\asm 2\\asm 2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1D0154FB-1BF1-4530-ACBC-FCA3CB897311}|ASM 2\\ASM 2.csproj|solutionrelative:asm 2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{1D0154FB-1BF1-4530-ACBC-FCA3CB897311}|ASM 2\\ASM 2.csproj|solutionrelative:asm 2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D0154FB-1BF1-4530-ACBC-FCA3CB897311}|ASM 2\\ASM 2.csproj|c:\\users\\admin\\onedrive\\desktop\\asm 2\\asm 2\\asm 2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D0154FB-1BF1-4530-ACBC-FCA3CB897311}|ASM 2\\ASM 2.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\ASM 2\\ASM 2\\asm 2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D0154FB-1BF1-4530-ACBC-FCA3CB897311}|ASM 2\\ASM 2.csproj|solutionrelative:asm 2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -69,8 +69,7 @@
               "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ASM 2\\ASM 2\\ASM 2\\Form3.cs [Design]",
               "RelativeToolTip": "ASM 2\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T14:03:38.28Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-12T14:03:38.28Z"
             },
             {
               "$type": "Document",
@@ -105,8 +104,7 @@
               "RelativeToolTip": "ASM 2\\Form2.cs",
               "ViewState": "AQIAAF4AAAAAAAAAAAAiwHgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T06:28:34.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T06:28:34.238Z"
             },
             {
               "$type": "Document",
@@ -118,8 +116,7 @@
               "RelativeToolTip": "ASM 2\\Form3.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAADwvwoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:23:36.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T06:23:36.17Z"
             }
           ]
         }
